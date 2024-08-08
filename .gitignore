@@ -1,0 +1,13 @@
+/.ipynb_checkpoints
+/._1.ipynb
+/._2.ipynb
+/._3.ipynb
+/._BraTS-Data
+/._util.py
+/C1_W3_Lab_1_explore_mri_data_and_labels.ipynb
+/C1_W3_Lab_2_extract_a_sub_section.ipynb
+/C1_W3_Lab_3_unet_model.ipynb
+/data
+/images
+/util.py
+/__pycache__
